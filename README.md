@@ -1,8 +1,5 @@
 # School Laravel
 
-
-# Getting started
-
 ## Installation
 
 Wanna learn more about laravel visit => [Official Documentation](https://laravel.com/docs/6.x)
