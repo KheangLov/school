@@ -19,7 +19,9 @@ Install all the dependencies using composer
     
 Install node modules
 
-    npm i or yarn
+    npm i
+    or
+    yarn
 
 Copy the example env file and make the required configuration changes in the .env file
 
